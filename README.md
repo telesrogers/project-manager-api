@@ -1,6 +1,6 @@
 # Project Manager API
 
-Task management project developed as part of the **Node.js Platform** course, from the **Distributed Software Architecture** postgraduate program at **PUC Minas**, taught by Professor **Samuel Martins**.
+Task management project developed as part of the **NODE.JS APPLICATION ARCHITECTURE** course, from the **DISTRIBUTED SOFTWARE ARCHITECTURE** postgraduate program at **PUC Minas**.
 
 ---
 
