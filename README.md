@@ -1,9 +1,8 @@
 # Project Manager API
 
-Task management project developed as part of the **NODE.JS APPLICATION ARCHITECTURE** course, from the **DISTRIBUTED SOFTWARE ARCHITECTURE** postgraduate program at **PUC Minas**.
+Task management project developed as part of the **Application Architecture with Node.js** course, from the **Distributed Software Architecture** postgraduate program at **PUC Minas**.
 
 ---
-
 ## 🚀 Business Rules
 
 The application consists of a project and task management system with the following guidelines:
